@@ -13,7 +13,11 @@ The ultimate goal of this project is to create a system that can detect cats and
 While our goal is very specific (cats vs dogs), ImageClassifier can detect anything that is tangible with an adequate dataset.
 
 Dataset: Dogs vs Cats
+
 Description: Binary classification. Classify dogs and cats.
+
 Number_of_Classes:2
+
 Training: 8000 images (4000 per class)
+
 Testing: 4000 images (2000 per class)
