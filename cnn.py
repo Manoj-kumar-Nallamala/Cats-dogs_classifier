@@ -1,4 +1,4 @@
-# Convolutional Neural Network
+# Building Convolutional Neural Network for cats v/s dogs classifier.
 
 # Part 1 - Building the CNN
 
